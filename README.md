@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # wordle-next
-=======
-# wordle_next
 
-A new Flutter project.
->>>>>>> 8192c03 (Skeleton flutter application that will act as a baseline for future development.)
+A Flutter app that helps with next word suggestion for the Wordle game. Users
+need to enter their current state, i.e. the guesses made and the feedback
+received. This app provides suggestions of potential next words that could be
+tried.
